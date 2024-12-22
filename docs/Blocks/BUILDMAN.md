@@ -20,4 +20,5 @@ Example `Date and Time`
 Example `GS Version` (Goliath Studio)
 
 `GS version 9.0.170764` Taken from "Skylanders Superchargers Racing (Alpha) [Wii]"
+
 `GS version 9.0.175008` Taken from "Skylanders Superchargers Racing (Retail) [Wii]"
