@@ -27,3 +27,5 @@ Example `GS Version` (Goliath Studio)
 `GS version 9.0.175008` - "Skylanders Superchargers Racing (Retail) [Wii]"
 
 `GS version 8.20.98473` - "The Amazing Spider-Man 2 (Retail) [PS3]"
+
+`GS version 3.132.142` - "Monsters vs. Aliens (Retail) [Wii]"
