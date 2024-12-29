@@ -1,12 +1,13 @@
 # BUILDMAN - What is it?
 "buildman" seems to just be a block type in the Goliath Engine PAKFILES.
 
+# BLOCK IDENTIFIER - 17
 It has a lot of information about when the files were built and how they were built.
 So far, what I have is this:
 
 | Name | Offset | Size |
 |--------|---------|------
-| Identifier | 0x00 | 0x04 |
+| File Identifier | 0x00 | 0x04 |
 | Unknown | 0x04 | 0x0F |
 | Date and Time | 0x13 | 0x18 |
 | Unknown | 0x2B | 0x5D |
