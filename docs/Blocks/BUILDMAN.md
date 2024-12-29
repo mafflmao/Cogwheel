@@ -1,7 +1,9 @@
 # BUILDMAN - What is it?
 "buildman" seems to just be a block type in the Goliath Engine PAKFILES.
 
-# BLOCK IDENTIFIER - 17
+## BLOCK IDENTIFIER
+This Block's Identifier is 17.
+# DATA
 It has a lot of information about when the files were built and how they were built.
 So far, what I have is this:
 
