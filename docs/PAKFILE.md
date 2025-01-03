@@ -1,5 +1,5 @@
 PAKFILE (.PKZ) documentation
-# GS VERSION 6 OR HIGHER.
+# GS VERSION 9 OR HIGHER.
 Other versions of the PAKFILE Format might be different.
 All SSCR PKZ Files are NOT compressed, and this is different on other games.
 # What are they?
@@ -28,7 +28,7 @@ This is probably one of the most simple parts of the PKZ files, it's just the le
 ## Sub-Blocks
 I don't actually think I can explain in words how much I hate these "Sub-Blocks". Currently Cogwheel can only detect Sub-Blocks which are at the start of a block's data, and not later in the data, which is a HUGE issue. I really hope that unknown section in the Block Header can fix this problem, but I doubt it
 
-# GS VERSION 5 OR BELOW.
+# GS VERSION 8 OR BELOW.
 Other versions of the PAKFILE Format might be different.
 All SSCR PKZ Files are NOT compressed, and this is different on other games.
 # What are they?
